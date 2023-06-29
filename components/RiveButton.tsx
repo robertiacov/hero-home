@@ -67,7 +67,7 @@ export default function RiveButton() {
             // onFocus={onButtonActivate}
             // onBlur={onButtonDeactivate}
           >
-            SOLVERSE
+            SOLVERS
           </a>
           {/* <RiveComponent aria-hidden="true" /> */}
         </div>
