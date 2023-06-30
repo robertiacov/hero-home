@@ -40,7 +40,7 @@ export default function RiveButton() {
             href="https://vidvers.vercel.app/"
             aria-label="Vidvers Website"
             className="absolute top-0 left-0 right-0 bottom-0 flex items-center 
-            justify-center w-full h-full font-semibold lg:text-4xl text-2xl bg-violet-500 
+            justify-center w-full h-full font-semibold text-xl lg:text-4xl md:text-2xl bg-violet-500 
             text-white rounded-full shadow-sm hover:bg-fuchsia-600 hover:scale-125
             hover:shadow-[0px_10px_20px_rgba(39,_224,_245,_0.8)] hover:border-4 border-emerald-100 transition duration-500 ease-in-out"
             style={{ textShadow: "1px 1px 1px rgba(0, 0, 0, 1)" }}
@@ -60,7 +60,7 @@ export default function RiveButton() {
             href="https://solverses.netlify.app/"
             aria-label="Solverses Website"
             className="absolute top-0 left-0 right-0 bottom-0 flex items-center 
-            justify-center w-full h-full font-semibold lg:text-4xl text-2xl bg-violet-500 
+            justify-center w-full h-full font-semibold text-xl lg:text-4xl md:text-2xl bg-violet-500 
             text-white rounded-full shadow-sm hover:bg-fuchsia-600 hover:scale-125 
             hover:shadow-[0px_10px_20px_rgba(39,_224,_245,_0.8)] hover:border-4 border-emerald-100 transition duration-500 ease-in-out"
             style={{ textShadow: "1px 1px 1px rgba(0, 0, 0, 1)" }}
